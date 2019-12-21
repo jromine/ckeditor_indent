@@ -1,14 +1,13 @@
-CKEDitor Indent
+CKEditor Indent
 =================
 
-This plugin for CKEDitor will provide paragraph and list indentation.
+This plugin for CKEditor will provide paragraph and list indentation.
 
 Requirements
 ------------
 
 CKEditor module
 This module was tested with CKEditor 4.1.
-
 
 Install
 -------
@@ -18,7 +17,6 @@ Install
 buttons are neeeded and drag the indent and outdent buttons to the enabled
 buttons list.
 - Save. The buttons will now be available in the toolbars for that text format.
-
 
 License
 -------
