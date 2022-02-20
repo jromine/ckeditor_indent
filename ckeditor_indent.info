@@ -1,6 +1,6 @@
 name = CKEditor Indent/Outdent
 description = CKEditor plugin for adding indents and outdents.
-package = User interface
+package = User Interface
 backdrop = 1.x
 type = module
 
